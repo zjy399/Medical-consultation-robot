@@ -1,5 +1,6 @@
 # 问诊信息整理机器人
 
+![Alt text](pic/qlchatagent.png)
 一个纯 Python 的桌面 UI 项目（`Qt / PySide6`），用于演示问诊流程自动化：
 
 - 点击开始问诊后，机器人按预设问题逐条提问。
